@@ -8,7 +8,7 @@
         },
         "administratorLoginPassword": {
             "type": "securestring",
-            "defaultValue": "Passw0rdPassw0rd"
+            "defaultValue": ""
         },
         "collation": {
             "type": "string",
